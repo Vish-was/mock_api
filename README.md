@@ -12,7 +12,7 @@ here is the readme.md file content
 ## setup
 
 ```
-> git clone https://github.com/Vish-was/agent-book
+> git clone https://github.com/Vish-was/mock_api.git
 > cd mock_api
 > npm install
 > npm start
